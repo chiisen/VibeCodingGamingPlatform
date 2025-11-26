@@ -1,7 +1,7 @@
 <template>
   <footer class="footer-info">
     <div class="footer-content">
-      <p>&copy; 2025 星城Online. All Rights Reserved.</p>
+      <p>&copy; 2025 Online. All Rights Reserved.</p>
       <div class="links">
         <a href="#">服務條款</a> | 
         <a href="#">隱私權政策</a> | 

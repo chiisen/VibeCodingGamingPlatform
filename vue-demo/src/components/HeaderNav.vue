@@ -1,7 +1,7 @@
 <template>
   <header class="header-nav">
     <div class="logo">
-      <h1>星城Online</h1>
+      <h1>Online</h1>
     </div>
     <nav class="main-menu">
       <ul>
