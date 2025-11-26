@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "範馬刃牙",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/25d6116d4f9f1b0441e879f982ebd8a0.png"
+  },
+  {
+    "id": 2,
+    "name": "寶石旋風",
+    "category": "classic",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/189d6e178a658dfd59422a944ebb64bb.png"
+  },
+  {
+    "id": 3,
+    "name": "鈔鑽錢",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/72b7ec8d8bef781df7ea6ff02efd4dec.png"
+  },
+  {
+    "id": 4,
+    "name": "新悟空",
+    "category": "classic",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/8bdfcba25c7a0e19d54311946609e033.png"
+  },
+  {
+    "id": 5,
+    "name": "惡魔天使",
+    "category": "classic",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/1693b16baa6c930e67004cc3194a6c00.png"
+  },
+  {
+    "id": 6,
+    "name": "六角SLOT",
+    "category": "classic",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/ce084566a9665f9d2cbe2a1bf7ca6bd7.png"
+  },
+  {
+    "id": 7,
+    "name": "火爆辣椒",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/2daa61c7ba26cb72568401ea6198095d.png"
+  },
+  {
+    "id": 8,
+    "name": "血咒德古拉",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/8cb02486658f6941f27c85230f2a75e9.png"
+  },
+  {
+    "id": 9,
+    "name": "天才釣手",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/13a30c0648464ea841ed702ed8411712.png"
+  },
+  {
+    "id": 10,
+    "name": "霸三國 亂世梟雄",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/cbfb1942de097ad171f96e605942ccaf.png"
+  },
+  {
+    "id": 11,
+    "name": "奧丁之怒2",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/1a26e730a3efb55d25b76fec95e5529c.png"
+  },
+  {
+    "id": 12,
+    "name": "雷殿",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/bf20367a2017c4bcc8ac528125f48900.png"
+  },
+  {
+    "id": 13,
+    "name": "妖界黃昏",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/e6db4c45dacd38cf74173862badc9e45.png"
+  },
+  {
+    "id": 14,
+    "name": "狼來了",
+    "category": "global",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/f7751ddffef5ac805cccfd8f1b505d41.png"
+  },
+  {
+    "id": 15,
+    "name": "阿尼瑪Lotta",
+    "category": "special",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/880c063df1448fc2c5ed96fce75e5949.png"
+  },
+  {
+    "id": 16,
+    "name": "甘貝熊轉蛋機",
+    "category": "jackpot",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/4d357c22765719dc5038796a9ea93e87.png"
+  },
+  {
+    "id": 17,
+    "name": "巨石3 羽蛇試煉",
+    "category": "special",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/1763b2a23e493ab6849d4224a1514290.png"
+  },
+  {
+    "id": 18,
+    "name": "敲泥馬",
+    "category": "special",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/43026dc7b67b86cf3117c445918c0b30.png"
+  },
+  {
+    "id": 19,
+    "name": "摜蛋",
+    "category": "chess",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/c9088b712d5670e9c90bd93447a7ecfe.png"
+  },
+  {
+    "id": 20,
+    "name": "鯊很大5",
+    "category": "fish",
+    "icon": "https://storage.xin-stars.com/omp_xinstars/GameIntro/4c47f725ddf9eba8fc5e5d68b5494a15.png"
+  }
+]
