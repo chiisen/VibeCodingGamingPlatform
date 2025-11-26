@@ -1,5 +1,5 @@
 # VibeCodingGamingPlatform
-Vibe Coding 使用 Google Antigravity 模仿某知名遊戲平台。
+Vibe Coding 使用 Google Antigravity 模仿某知名遊戲平台，並記錄所下的 PROMPT、CHANGELOG(修改紀錄)、PLANNING(專案規劃)、ICON(爬蟲抓取遊戲圖示的說明)等文件。
 
 ![Online](./images/Online.png)
 
