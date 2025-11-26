@@ -9,6 +9,8 @@ Vibe Coding 使用 Google Antigravity 模仿某知名遊戲平台，並記錄所
 ## 環境設定
 Node.js v22  
 參考 [.nvmrc](.nvmrc) 檔案設定  
+vue 3.5.25  
+Google Antigravity 使用 Gemini 3 Pro (High) 模式  
 
 ## Vue DEMO 專案的建立與分析
 1. 分析結果: 已建立 Planning.md，包含詳細的組件結構與功能規劃。
