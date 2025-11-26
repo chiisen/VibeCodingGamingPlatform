@@ -10,13 +10,13 @@
     "fetch-icons": "node scripts/fetch-icons.js"
   },
   "devDependencies": {
-    "jsdom": "^22.1.0",
     "node-fetch": "^2.6.7",
+    "jsdom": "^22.1.0",
     "typescript": "~5.9.3",
     "vite": "^6.0.0"
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^5.2.4",
-    "vue": "^2.7.16"
+    "vue": "^3.5.25"
   }
 }
